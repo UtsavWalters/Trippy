@@ -7,6 +7,7 @@ import NavTabsCard from "./cards/NavTabsCard.vue";
 import LoginCard from "./cards/LoginCard.vue";
 import Tabs from "./Tabs.vue";
 import Modal from "./Modal.vue";
+import TripSearch from "./TripSearch.vue";
 
 export {
   DropDown,
@@ -17,5 +18,6 @@ export {
   NavTabsCard,
   LoginCard,
   Tabs,
-  Modal
+  Modal,
+  TripSearch
 };
